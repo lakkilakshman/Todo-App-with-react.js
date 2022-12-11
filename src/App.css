@@ -1,0 +1,14 @@
+.textbox{
+  width: 300px;
+  height:40px;
+}
+.bttn{
+  line-height: 30px !important;
+  border-radius: 12px !important;
+  background-color: #4a1c5d !important;
+  
+}
+.head{
+  background-image: linear-gradient(to left bottom, #051937, #3c2558, #7c2466, #ba215d, #e63e3e);
+  background-repeat:no-repeat;
+}
